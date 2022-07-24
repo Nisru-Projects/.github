@@ -22,5 +22,12 @@
       <p align="center">Description</p>
       <a href="https://github.com/Nisru-Projects/NisruTelemetry"><img src="https://img.shields.io/badge/Nisru-Telemetry-yellow"/></a>
     </div>
+    <hr />
+    <div align="center">
+      <img width="70" height="70" src="https://i.imgur.com/UEuws82.png" /> 
+      <h3>Bot</h3>
+      <p align="center">Description</p>
+      <a href="https://github.com/Nisru-Projects/NisruBot"><img src="https://img.shields.io/badge/Nisru-Bot-purple"/></a>
+    </div>
   </ul>
 </div>
