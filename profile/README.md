@@ -24,6 +24,13 @@
     </div>
     <hr />
     <div align="center">
+      <img width="70" height="70" src="https://i.imgur.com/9vhemcd.png" /> 
+      <h3>Emerald</h3>
+      <p align="center">Description</p>
+      <a href="https://github.com/Nisru-Projects/NisruEmerald"><img src="https://img.shields.io/badge/Nisru-Emerald-green"/></a>
+    </div>
+    <hr />
+    <div align="center">
       <img width="70" height="70" src="https://i.imgur.com/Mu2LaaH.png" /> 
       <h3>Bot</h3>
       <p align="center">Description</p>
